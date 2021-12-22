@@ -1,0 +1,35 @@
+train size 4108 and test size 1000
+build graph in gpu 0
+epoch 1 , Train average loss is 45.679821 take 397.800 s
+epoch 2 , Train average loss is 34.407943 take 396.166 s
+epoch 3 , Train average loss is 31.839110 take 392.113 s
+epoch 4 , Train average loss is 29.483097 take 393.948 s
+epoch 5 , Train average loss is 27.494822 take 393.141 s
+---EVALUATE 5 EPOCH---
+Testset: loss is 50616479142623849415180288.000 
+Testset: MAE is 9.760 
+Testset: MAE_wt is 9.760 
+epoch 5, best saved in file:  /data/taoxm/pointSIFT_age/RS_age/result/bz_10_2/model_pred/best_age_model_5.ckpt
+epoch 6 , Train average loss is 23.776888 take 436.022 s
+epoch 7 , Train average loss is 19.192725 take 395.398 s
+epoch 8 , Train average loss is 15.216063 take 395.452 s
+epoch 9 , Train average loss is 13.241827 take 393.909 s
+epoch 10 , Train average loss is 12.094610 take 389.394 s
+---EVALUATE 10 EPOCH---
+Testset: loss is 188651665074875231371264.000 
+Testset: MAE is 6.821 
+Testset: MAE_wt is 6.821 
+epoch 10, best saved in file:  /data/taoxm/pointSIFT_age/RS_age/result/bz_10_2/model_pred/best_age_model_10.ckpt
+epoch 11 , Train average loss is 11.342109 take 432.865 s
+epoch 12 , Train average loss is 10.794098 take 393.477 s
+epoch 13 , Train average loss is 10.340614 take 391.579 s
+epoch 14 , Train average loss is 9.956467 take 390.873 s
+epoch 15 , Train average loss is 9.704355 take 393.813 s
+---EVALUATE 15 EPOCH---
+Testset: loss is 2341361781140905617522688.000 
+Testset: MAE is 6.821 
+Testset: MAE_wt is 6.821 
+epoch 16 , Train average loss is 9.459306 take 428.147 s
+epoch 17 , Train average loss is 9.289411 take 394.320 s
+epoch 18 , Train average loss is 9.145266 take 394.660 s
+epoch 19 , Train average loss is 8.994297 take 395.026 s

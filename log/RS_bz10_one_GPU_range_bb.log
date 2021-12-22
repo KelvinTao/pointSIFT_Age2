@@ -1,0 +1,85 @@
+train size 3285 and test size 1000
+build graph in gpu 0
+epoch 1 , Train average loss is 48.164418 take 582.137 s
+epoch 2 , Train average loss is 35.149413 take 577.836 s
+epoch 3 , Train average loss is 31.577628 take 578.238 s
+epoch 4 , Train average loss is 29.948035 take 578.039 s
+epoch 5 , Train average loss is 28.106744 take 578.412 s
+---EVALUATE 5 EPOCH---
+Testset: loss is 55743991226145638738827411456.000 
+Testset: MAE is 19.589 
+Testset: MAE_wt is 19.589 
+epoch 5, best saved in file:  /data/taoxm/pointSIFT_age/RS_age/result/bz_10_range_bb/model_pred/best_age_model_5.ckpt
+epoch 6 , Train average loss is 26.146516 take 678.221 s
+epoch 7 , Train average loss is 22.665428 take 578.123 s
+epoch 8 , Train average loss is 16.586831 take 577.879 s
+epoch 9 , Train average loss is 13.268133 take 576.877 s
+epoch 10 , Train average loss is 11.957742 take 578.485 s
+---EVALUATE 10 EPOCH---
+Testset: loss is 3617177143118046167040.000 
+Testset: MAE is 19.589 
+Testset: MAE_wt is 19.589 
+epoch 11 , Train average loss is 11.075167 take 673.866 s
+epoch 12 , Train average loss is 10.416611 take 578.472 s
+epoch 13 , Train average loss is 9.878469 take 578.499 s
+epoch 14 , Train average loss is 9.523217 take 577.386 s
+epoch 15 , Train average loss is 9.160211 take 577.099 s
+---EVALUATE 15 EPOCH---
+Testset: loss is 3617177143118046167040.000 
+Testset: MAE is 19.589 
+Testset: MAE_wt is 19.589 
+epoch 16 , Train average loss is 8.918101 take 674.461 s
+epoch 17 , Train average loss is 8.693381 take 576.846 s
+epoch 18 , Train average loss is 8.523693 take 577.949 s
+epoch 19 , Train average loss is 8.362677 take 576.802 s
+epoch 20 , Train average loss is 8.189165 take 577.454 s
+---EVALUATE 20 EPOCH---
+Testset: loss is 3617177143118046167040.000 
+Testset: MAE is 19.589 
+Testset: MAE_wt is 19.589 
+epoch 21 , Train average loss is 8.103243 take 673.002 s
+epoch 22 , Train average loss is 8.047866 take 576.245 s
+epoch 23 , Train average loss is 7.959348 take 576.411 s
+epoch 24 , Train average loss is 7.881582 take 577.077 s
+epoch 25 , Train average loss is 7.812422 take 577.149 s
+---EVALUATE 25 EPOCH---
+Testset: loss is 3617177143118046167040.000 
+Testset: MAE is 19.589 
+Testset: MAE_wt is 19.589 
+epoch 26 , Train average loss is 7.776372 take 673.204 s
+epoch 27 , Train average loss is 7.711773 take 578.039 s
+epoch 28 , Train average loss is 7.676741 take 578.424 s
+epoch 29 , Train average loss is 7.633446 take 578.252 s
+epoch 30 , Train average loss is 7.601535 take 577.979 s
+---EVALUATE 30 EPOCH---
+Testset: loss is 3617177143118046167040.000 
+Testset: MAE is 19.589 
+Testset: MAE_wt is 19.589 
+epoch 31 , Train average loss is 7.597902 take 674.659 s
+epoch 32 , Train average loss is 7.558169 take 578.447 s
+epoch 33 , Train average loss is 7.547059 take 576.072 s
+epoch 34 , Train average loss is 7.536931 take 576.519 s
+epoch 35 , Train average loss is 7.515847 take 576.751 s
+---EVALUATE 35 EPOCH---
+Testset: loss is 3617177143118046167040.000 
+Testset: MAE is 19.589 
+Testset: MAE_wt is 19.589 
+epoch 36 , Train average loss is 7.503513 take 673.848 s
+epoch 37 , Train average loss is 7.494812 take 575.467 s
+epoch 38 , Train average loss is 7.452374 take 577.332 s
+epoch 39 , Train average loss is 7.443794 take 576.460 s
+epoch 40 , Train average loss is 7.460322 take 575.692 s
+---EVALUATE 40 EPOCH---
+Testset: loss is 3617176730757205327872.000 
+Testset: MAE is 19.589 
+Testset: MAE_wt is 19.589 
+epoch 41 , Train average loss is 7.455496 take 671.816 s
+epoch 42 , Train average loss is 7.437533 take 576.503 s
+epoch 43 , Train average loss is 7.465172 take 575.582 s
+epoch 44 , Train average loss is 7.462339 take 575.865 s
+epoch 45 , Train average loss is 7.444928 take 576.347 s
+---EVALUATE 45 EPOCH---
+Testset: loss is 3617176730757205327872.000 
+Testset: MAE is 19.589 
+Testset: MAE_wt is 19.589 
+epoch 46 , Train average loss is 7.411679 take 672.817 s
